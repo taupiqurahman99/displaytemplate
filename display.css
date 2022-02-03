@@ -49,22 +49,22 @@ main{
 }
 /*adding article is not necessary, but could be more informative.*/
 
-.kotakteks div#cool{
+.kotakteks div#1{
     order:2;
     flex-grow: 3; 
 }
 
-.kotakteks div#warm{
+.kotakteks div#2{
     order:1;
     flex-grow: 5; 
 }
 
-.kotakteks div#hot{
+.kotakteks div#3{
     order:3;
     flex-grow: 1; 
 }
 
-.kotakteks #warm,.kotakteks #hot,.kotakteks #cool{
+.kotakteks #2,.kotakteks #3,.kotakteks #1{
     border:.8em .8em .8em .8em;
     border-style: solid;
     border-color: #000;
